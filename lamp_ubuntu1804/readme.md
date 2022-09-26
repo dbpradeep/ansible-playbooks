@@ -44,4 +44,8 @@ disable_default: true
 ansible-playbook -l [target] -i [inventory file] -u [remote user] playbook.yml
 ```
 
-For more information on how to run this Ansible setup, please check this guide: [soon]().
+### 4 Access the URL
+
+```
+http://server_host_or_IP/info.php
+```
