@@ -1,6 +1,6 @@
 ---
 mysql_root_password: "passw0rd"
-app_user: "bhavani"
+app_user: "ubuntu"
 http_host: "bhavani.darbha.com"
 http_conf: "bhavani.conf"
 http_port: "80"
